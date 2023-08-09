@@ -1,0 +1,23 @@
+{
+  "name": "aws-servcies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Lambda-function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PalRishikesh/AWS-services.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PalRishikesh/AWS-services/issues"
+  },
+  "homepage": "https://github.com/PalRishikesh/AWS-services#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1432.0"
+  }
+}
